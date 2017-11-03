@@ -12,7 +12,7 @@
 button {
   color: white;
   background-color: green;
-  cursor: crosshair;
+  cursor: pointer;
 }
 
 .row {
