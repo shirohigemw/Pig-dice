@@ -1,9 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .header{
   background-image: url("../img/cover.png");
   background-size: cover;
   height: 600px;
 }
 
+button {
+  color: white;
+  background-color: green;
+  cursor: crosshair;
+}
+
+.row {
+  text-align: left;
+}
+
+.row p{
+  font-size: 30px;
+  color: green;
+}
+
+.row h1{
+  font-size: 90px;
+}
+/*p#left{
+  text-align: left;
+}*/
+
+img#dicey{
+  height: 200px;
+  width: 200px;
+}
+
+img#dicey2{
+  height: 200px;
+  width: 200px;
+}
 /*.bottom {*/
   /*background-image: url("../img/.png");
   background-size: cover;
@@ -22,7 +58,7 @@
 }*/
 
 img#grass{
-  top: 110px;
+  /*top: 90px;*/
   position: relative;
 }
 
