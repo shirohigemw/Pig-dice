@@ -22,7 +22,20 @@ function printNumber(number) {
   placeholder.innerHTML = number;
 }
 
-var button = document.getElementById('button');
+var button = document.getElementById('p1');
+
+button.onclick = function() {
+  var result = dice.roll();
+  printNumber(result);
+};
+
+
+function printNumber(number) {
+  var placeholder = document.getElementById('result2');
+  placeholder.innerHTML = number;
+}
+
+var button = document.getElementById('p2');
 
 button.onclick = function() {
   var result = dice.roll();
