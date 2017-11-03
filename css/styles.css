@@ -1,5 +1,41 @@
 .header{
   background-image: url("../img/cover.png");
   background-size: cover;
-  height: 500px;
+  height: 600px;
+}
+
+/*.bottom {*/
+  /*background-image: url("../img/.png");
+  background-size: cover;
+  background-repeat: repeat;*/
+  /*height: 200px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  color: white;
+  width: 100%;
+  text-align: center;
+  border-bottom: 20px;*/
+  /*background-image: url("../img/gr.png");*/
+  /*
+}
+}*/
+
+img#grass{
+  top: 110px;
+  position: relative;
+}
+
+
+body {
+  background-image: url("../img/BG.png");
+  background-size: cover;
+}
+/*span#grass{
+    background-image: url("../img/gr.png");
+    background-size: cover;
+    width: 100%;
+    padding: 10px;*/
+
+
 }
