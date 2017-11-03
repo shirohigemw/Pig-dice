@@ -31,7 +31,7 @@ The site employed the use of HTML,CSS, bootstrap and javascript to implement.
 
 In any case of any questions please contact Moses Waweru Chege at moseswpchege@yahoo.com
 
-the site can be viewed at https://shirohigemw.github.io/Ping-Pong/
+the site can be viewed at https://shirohigemw.github.io/Pig-dice/
 
 
 Copyright (c) 2017 ** MOSES **
